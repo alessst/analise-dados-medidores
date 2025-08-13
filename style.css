@@ -1,0 +1,71 @@
+.card {
+    width: 160px;
+    padding: 6px;
+    margin: 10px auto;
+    border-radius: 10px;
+    box-shadow: 3px 3px 5px #4F4F4F;
+    text-align: center;
+    background-color: #363636;
+}
+.data-card {
+    width: 130px;
+    padding: 10px;
+    margin: 5px auto;
+    border-radius: 10px;
+    text-align: center;
+    background-color: #363636;
+}
+.ponto-data-card {
+    width: 170px;
+    padding: 3px;
+    margin: 5px auto;
+    border-radius: 10px;
+    text-align: left;
+    background-color: #363636;
+}
+.pot-card {
+    width: 230px;
+    padding: 10px;
+    margin: 5px auto;
+    border-radius: 10px;
+    text-align: center;
+    background-color: #363636;
+}
+.small-text {
+    font-size: 8px;
+    font-weight: bold;
+    color: #D3D3D3;
+}
+.medium-text {
+    font-size: 12px;
+    font-weight: bold;
+    color: #D3D3D3;
+    text-transform: uppercase;
+}
+.large-text {
+    font-size: 20px;
+    font-weight: bold;
+    color: #D3D3D3;
+}
+.data-medium-text {
+    font-size: 10px;
+    color: #D3D3D3;
+    text-transform: uppercase;
+}
+.data-large-text {
+    font-size: 16px;
+    font-weight: bold;
+    color: #D3D3D3;
+    text-transform: uppercase;
+}
+.data-text {
+    font-size: 14px;
+    font-weight: bold;
+    color: #D3D3D3;
+}
+.ponto-data-medium-text {
+    font-size: 10px;
+    color: #D3D3D3;
+    font-weight: bold;
+    text-transform: uppercase;
+}
